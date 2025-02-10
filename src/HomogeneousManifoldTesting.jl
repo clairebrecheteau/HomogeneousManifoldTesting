@@ -11,7 +11,7 @@ using NearestNeighbors
 using RCall
 
 import Distributions: Normal, MvNormal, Multinomial, Chisq, quantile, mean, std
-import Manifolds: Grassmann, rand
+import Manifolds: Grassmann, rand, distance
 
 export RandomUniform
 export plot_data
