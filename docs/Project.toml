@@ -1,0 +1,4 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+HomogeneousManifoldTesting = "2e3a63ff-42bb-41f7-bba7-87d26dc597a2"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
